@@ -46,11 +46,9 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Return to your pull request.
 1. Use Markdown to create a task list. Here is an example:
 
-   
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
-   - [ ] Introduce myself to the world
-  
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
